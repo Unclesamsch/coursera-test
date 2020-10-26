@@ -35,11 +35,20 @@
 	margin-bottom: 35px;
 }
 #main_content h3 {
-	text-align: center;
+	/*text-align: center;*/
 	font-weight: bold;
 }
 #season1 {
-	background-color: #8FBC8F;
-	height: 800px;
-
+	background-color: #8FBC8F;	
+	border: 1px solid;
+	margin-bottom: 10px;
+}
+#season2 {
+	background-color: #8FBC8F;	
+	border: 1px solid;
+	margin-bottom: 10px;
+}
+#season3 {
+	background-color: #8FBC8F;	
+	border: 1px solid;
 }
